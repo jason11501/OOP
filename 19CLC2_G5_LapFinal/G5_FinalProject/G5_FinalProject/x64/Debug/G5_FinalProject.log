@@ -1,0 +1,15 @@
+﻿  Book.cpp
+C:\Users\ASUS\Desktop\G5_FinalProject\G5_FinalProject\Book.cpp(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\ASUS\Desktop\G5_FinalProject\G5_FinalProject\Book.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\ASUS\Desktop\G5_FinalProject\G5_FinalProject\Book.cpp(14,28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\ASUS\Desktop\G5_FinalProject\G5_FinalProject\Book.cpp(14,34): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\ASUS\Desktop\G5_FinalProject\G5_FinalProject\Book.cpp(415,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\G5_FinalProject\G5_FinalProject\Book.cpp(1214,25): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\ASUS\Desktop\G5_FinalProject\G5_FinalProject\Book.cpp(1218,31): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\ASUS\Desktop\G5_FinalProject\G5_FinalProject\Book.cpp(1222,31): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\ASUS\Desktop\G5_FinalProject\G5_FinalProject\Book.cpp(1226,31): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\ASUS\Desktop\G5_FinalProject\G5_FinalProject\Book.cpp(1230,32): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\ASUS\Desktop\G5_FinalProject\G5_FinalProject\Book.cpp(1234,33): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\ASUS\Desktop\G5_FinalProject\G5_FinalProject\Book.cpp(1292,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\G5_FinalProject\G5_FinalProject\Book.cpp(1319,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  G5_FinalProject.vcxproj -> C:\Users\ASUS\Desktop\G5_FinalProject\x64\Debug\G5_FinalProject.exe

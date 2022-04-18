@@ -1,0 +1,41 @@
+5
+1
+Conan
+Aoyama Gosho
+Truyen thieu nhi
+1993
+5
+Japan
+15000
+2
+Doraemon
+Fujiko F Fujio
+Truyen thieu nhi
+1995
+3
+Japan
+15000
+3
+Silence Of The Lamb
+Thomas Harris
+Trinh tham
+2000
+3
+America
+35000
+4
+The C++ Programming Language
+Bjarne Stroustrup
+Khoa hoc
+1991
+4
+America
+1000000
+5
+Calculus 7th Edition
+James Stewart
+Khoa hoc
+1997
+4
+America
+2000000
